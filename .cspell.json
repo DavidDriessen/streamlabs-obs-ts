@@ -21,7 +21,10 @@
     "sandboxed",
     "transpiled",
     "typedoc",
-    "untracked"
+    "untracked",
+    "sockjs",
+    "billjs",
+    "streamlabs"
   ],
   "flagWords": [],
   "ignorePaths": [
