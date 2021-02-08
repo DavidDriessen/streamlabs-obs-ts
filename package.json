@@ -1,13 +1,27 @@
 {
   "name": "streamlabs-obs-ts",
   "version": "1.0.0",
-  "description": "Socket for Streamlabs obs",
+  "description": "An easy promise powered solution to access Streamlabs OBS (SLOBS) websocket connections.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/DavidDriessen/streamlabs-obs-ts",
+  "author": "daviddual",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDriessen/streamlabs-obs-ts"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidDriessen/streamlabs-obs-ts/issues"
+  },
+  "homepage": "https://github.com/DavidDriessen/streamlabs-obs-ts#readme",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "streamlabs",
+    "obs",
+    "websocket",
+    "promise",
+    "slobs"
+  ],
   "scripts": {
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",
