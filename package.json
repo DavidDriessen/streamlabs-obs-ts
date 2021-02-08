@@ -20,7 +20,9 @@
     "obs",
     "websocket",
     "promise",
-    "slobs"
+    "slobs",
+    "ts",
+    "typescript"
   ],
   "scripts": {
     "build": "run-p build:*",

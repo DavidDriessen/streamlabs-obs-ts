@@ -1,7 +1,7 @@
 Socket for Streamlabs obs
 <div style="text-align: center;">
-    <a href="https://www.npmjs.com/package/streamlabs-obs-ts.js"><img src="https://img.shields.io/npm/v/streamlabs-obs-ts.js.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/streamlabs-obs-ts.js"><img src="https://img.shields.io/npm/dt/streamlabs-obs-ts.js.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/streamlabs-obs-ts"><img src="https://img.shields.io/npm/v/streamlabs-obs-ts.js.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/streamlabs-obs-ts"><img src="https://img.shields.io/npm/dt/streamlabs-obs-ts.js.svg?maxAge=3600" alt="NPM downloads" /></a>
 </div>
 
 # Streamlabs-obs-ts
