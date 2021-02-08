@@ -7,6 +7,7 @@ Socket for Streamlabs obs
 # Streamlabs-obs-ts
 An easy promise powered solution to access Streamlabs OBS (SLOBS) websocket connections.
 
+[Reference material](https://stream-labs.github.io/streamlabs-obs-api-docs/docs/index.html)
 
 ## How to use
 ### Get Token
